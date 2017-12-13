@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UltimaPruebaExamen</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="ordernar_por_nombre">Ordernar por nombre</string>
+    <string name="ordernar_por_id">Ordernar por id</string>
+    <string name="ordernar_por_coste">Ordernar por coste</string>
+    <string name="key_mostrar_lista_articulo">keyMostrarPrecioArticulo</string>
+    <string name="menu_string_preferencias">Preferencias</string>
+</resources>
